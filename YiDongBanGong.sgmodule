@@ -1,0 +1,5 @@
+#!name=YiDongBanGong Proxy List
+#!desc=移动办公软件代理规则
+
+[Rule]
+PROCESS-NAME,移动办公,Direct
